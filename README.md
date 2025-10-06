@@ -76,7 +76,7 @@ Copy code
 ## 📈 How to Run
 1. Clone the repository:  
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/Luchiri/Nairobi-Weather-Analysis-May-2024-May-2025-.git>
 Create & activate a virtual environment:
 
 bash
